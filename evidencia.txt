@@ -1,0 +1,17 @@
+
+---------- LOGS.TXT
+Failed login from 192.168.1.10
+Failed login from 192.168.1.10
+Failed login from 192.168.1.10
+Failed login from 10.0.0.3
+Failed login from 10.0.0.3
+Failed login from 10.0.0.3
+Failed login from 10.0.0.3
+
+---------- LOGS.TXT: 7
+
+---------- LOGS.TXT
+Failed login from 10.0.0.3
+Failed login from 10.0.0.3
+Failed login from 10.0.0.3
+Failed login from 10.0.0.3
